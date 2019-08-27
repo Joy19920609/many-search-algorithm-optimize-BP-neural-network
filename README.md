@@ -1,2 +1,2 @@
 # many-search-algorithm-optimize-BP-neural-network
-利用各种算法优化BP
+Use diffierent intelligent search algorithm to optimize bp neural network
